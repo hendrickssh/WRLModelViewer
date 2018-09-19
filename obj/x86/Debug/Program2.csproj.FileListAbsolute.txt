@@ -1,0 +1,16 @@
+G:\Prog2\Prog2\Program2\bin\x86\Debug\Program2.exe.config
+G:\Prog2\Prog2\Program2\bin\x86\Debug\Program2.exe
+G:\Prog2\Prog2\Program2\bin\x86\Debug\Program2.pdb
+G:\Prog2\Prog2\Program2\bin\x86\Debug\OpenTK.dll
+G:\Prog2\Prog2\Program2\bin\x86\Debug\OpenTK.GLControl.dll
+G:\Prog2\Prog2\Program2\bin\x86\Debug\OpenTK.pdb
+G:\Prog2\Prog2\Program2\bin\x86\Debug\OpenTK.xml
+G:\Prog2\Prog2\Program2\bin\x86\Debug\OpenTK.dll.config
+G:\Prog2\Prog2\Program2\bin\x86\Debug\OpenTK.GLControl.xml
+G:\Prog2\Prog2\Program2\obj\x86\Debug\Program2.csprojResolveAssemblyReference.cache
+G:\Prog2\Prog2\Program2\obj\x86\Debug\Program2.Form1.resources
+G:\Prog2\Prog2\Program2\obj\x86\Debug\Program2.Properties.Resources.resources
+G:\Prog2\Prog2\Program2\obj\x86\Debug\Program2.csproj.GenerateResource.Cache
+G:\Prog2\Prog2\Program2\obj\x86\Debug\Program2.csproj.CoreCompileInputs.cache
+G:\Prog2\Prog2\Program2\obj\x86\Debug\Program2.exe
+G:\Prog2\Prog2\Program2\obj\x86\Debug\Program2.pdb
